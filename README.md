@@ -30,7 +30,8 @@ performance trends across all three formats.
 - Power Query
 
 ## 📊 Dashboard Preview
-[Add screenshot here]
+<img width="2070" height="1164" alt="image" src="https://github.com/user-attachments/assets/6eafa7bf-0cf5-45b9-84e7-a4d2ded2e3ee" />
+
 
 ## 📁 Dataset
 Virat Kohli international cricket career statistics
